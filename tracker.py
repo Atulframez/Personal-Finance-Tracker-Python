@@ -46,3 +46,5 @@ def view_summary():
     print(f"\nTotal Income: {total_income}")
     print(f"Total Expenses: {total_expenses}")
     print(f"Balance: {balance}")
+ 
+print("Summary displayed successfully!")
