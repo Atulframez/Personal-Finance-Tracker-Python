@@ -52,15 +52,10 @@ You will see the following menu:
 ## Visualizations Available
 
 Bar Chart – Spending by category
-
 Pie Chart – Expense distribution
-
 Line Chart – Expenses over time
-
 Stacked Bar Chart – Income vs Expenses
-
 Histogram – Expense frequency
-
 All charts are generated using Matplotlib.
 
 ## Project Structure
