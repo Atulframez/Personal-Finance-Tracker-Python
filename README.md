@@ -1,4 +1,4 @@
-Personal Finance Tracker
+# 💰 Personal Finance Tracker (Python)
 
 Project Overview:
 The Personal Finance Tracker is a simple command-line application that helps users track their income, expenses, and savings goals. It also provides visualizations of spending patterns to better understand financial habits. The project uses SQLite for data storage and Matplotlib for creating various financial charts.
