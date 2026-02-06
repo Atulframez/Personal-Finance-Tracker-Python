@@ -27,4 +27,4 @@ Add Income: Enter the amount and description of your income.
 Add Expense: Enter the amount, category, and description of the expense.
 View Summary: See your total income, expenses, and remaining balance.
 Set Savings Goal: Set a savings goal to track progress.
-Visualize Spending: Choose from various charts to visualize your spending patterns.# Personal-Finance-Tracker-Python
+Visualize Spending: Choose from various charts to visualize your spending patterns.
