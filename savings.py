@@ -29,3 +29,5 @@ def track_savings_progress(balance):
             print(f"Congratulations! You've reached your savings goal.")
     else:
         print("No savings goal set.")
+
+print("Savings module loaded successfully!")
