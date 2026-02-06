@@ -30,6 +30,7 @@ Set Savings Goal: Set a savings goal to track progress.
 Visualize Spending: Choose from various charts to visualize your spending patterns.
 
 ## Install Dependencies
+
 pip install -r requirements.txt
 
 ## Usage
@@ -57,17 +58,6 @@ Line Chart – Expenses over time
 Stacked Bar Chart – Income vs Expenses
 Histogram – Expense frequency
 All charts are generated using Matplotlib.
-
-## Project Structure
-personal-finance-tracker-python/
-│
-├── main.py            # Main menu & app entry point
-├── database.py        # SQLite database setup
-├── tracker.py         # Income & expense logic
-├── savings.py         # Savings goal tracking
-├── visualization.py   # Charts & data visualization
-├── requirements.txt
-└── README.md
 
 ## Learning Outcomes
 
